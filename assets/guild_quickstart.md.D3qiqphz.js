@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.Dnrc4j_O.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/quickstart.md","filePath":"guild/quickstart.md"}'),r={name:"guild/quickstart.md"};function s(c,i,o,n,d,p){return a(),e("div")}const l=t(r,[["render",s]]);export{_ as __pageData,l as default};
